@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: x-large;
+    text-align: center;
+    background-image: linear-gradient(green, white);
+}
+
+a {
+    color: blue;
+}
+
+form {
+    margin: auto;
+    border: 1px solid;
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+ul {
+    margin: auto;
+    display: inline-block;
+}
