@@ -29,3 +29,14 @@ ul {
     height: 200px;
     border: 1px solid;
 }
+
+table, th, td {
+    border: 1px solid;
+    padding: 10px;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+/* th:nth-child(2) {
+    width: 200px;
+} */
